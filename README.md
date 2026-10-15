@@ -10,13 +10,13 @@
   <a href="mailto:arnavraut390@gmail.com">
     <img src="https://img.shields.io/badge/Email-arnavraut390%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/arnav-raut-0824042a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Artifact19">
     <img src="https://img.shields.io/badge/Location-Pune%2C%20IN-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Artifact19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -25,11 +25,11 @@
 
 Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, Class of 2027) focused on the practical realities of Applied ML—where noisy real-world text and volatile market regimes meet deterministic evaluation.
 
-* 🔬 **Engineering** — Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLMs (`Gemini Flash`, `Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
-* 📈 **Modeling** — Leakage-free financial time-series pipelines (`XGBoost`) and dense semantic retrieval engines (`BERT` vector spaces).
-* 🎓 **Certified in** — **DeepLearning.AI** Deep Learning Specialization (Coursera) & **AWS** Cloud Foundations (2026).
-* 🏆 **Track Record** — **Winner of WePitch 1.0 Startup Pitch Event** at MIT-ADT University, leading product ideation and commission-based revenue strategy for a student gig marketplace.
-* 💬 **Ask me about** — Encoder vs. decoder zero-shot trade-offs, Cohen's Kappa on human-annotated edge cases, rolling-window feature engineering, and building interactive `Streamlit` apps.
+* 🔬 **Engineering** - Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLMs (`Gemini Flash`, `Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
+* 📈 **Modeling** - Leakage-free financial time-series pipelines (`XGBoost`) and dense semantic retrieval engines (`BERT` vector spaces).
+* 🎓 **Certified in** - **DeepLearning.AI** Deep Learning Specialization (Coursera) & **AWS** Cloud Foundations (2026).
+* 🏆 **Track Record** - **Winner of WePitch 1.0 Startup Pitch Event** at MIT-ADT University, leading product ideation and commission-based revenue strategy for a student gig marketplace.
+* 💬 **Ask me about** - Encoder vs. decoder zero-shot trade-offs, Cohen's Kappa on human-annotated edge cases, rolling-window feature engineering, and building interactive `Streamlit` apps.
 
 ---
 
@@ -110,6 +110,6 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 ## 📊 Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artifact19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artifact19&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </div>
