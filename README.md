@@ -16,7 +16,7 @@
   <a href="https://github.com/Artifact19">
     <img src="https://img.shields.io/badge/Location-Pune%2C%20IN-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Artifact19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Artifact19 &label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
