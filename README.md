@@ -13,10 +13,7 @@
   <a href="https://www.linkedin.com/in/arnav-raut-0824042a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Artifact19">
-    <img src="https://img.shields.io/badge/Location-Pune%2C%20IN-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Artifact19 &label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Artifact19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -64,7 +61,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
       <p>Content-based recommender mapping aggregated game descriptions, genres, tags, and reviews into dense vector spaces via an automated <b>RAWG API + Kaggle ETL pipeline</b>.</p>
       <p><b>Impact:</b> Powered real-time cosine similarity retrieval inside an interactive <b>Streamlit</b> web app, achieving a <b>60% Hit Ratio</b> across a 50-user campus acceptance study.</p>
       <p>
-        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code> &nbsp;
+        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code>
       </p>
     </td>
   </tr>
