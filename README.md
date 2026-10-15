@@ -22,7 +22,7 @@
 
 Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, Class of 2027) focused on the practical realities of Applied ML, where noisy real-world text and volatile market regimes meet deterministic evaluation.
 
-* 🔬 **Engineering** - Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLMs (`Gemini Flash`, `Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
+* 🔬 **Engineering** - Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLM (`Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
 * 📈 **Modeling** - Leakage-free financial time-series pipelines (`XGBoost`) and dense semantic retrieval engines (`BERT` vector spaces).
 * 🎓 **Certified in** - **DeepLearning.AI** Deep Learning Specialization (Coursera) & **AWS** Cloud Foundations (2026).
 * 🏆 **Track Record** - **Winner of WePitch 1.0 Startup Pitch Event** at MIT-ADT University, leading product ideation and commission-based revenue strategy for a student gig marketplace.
