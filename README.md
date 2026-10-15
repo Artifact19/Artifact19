@@ -45,7 +45,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
       <p>
         <code>PyTorch</code> <code>Hugging Face</code> <code>DeBERTa</code> <code>Qwen2.5</code> <code>Gemini API</code>
       </p>
-      <p><a href="#"><b>Explore Repo →</b></a></p>
+      <!-- <p><a href="#"><b>Explore Repo →</b></a></p> -->
     </td>
     <td width="50%" valign="top">
       <h3>📈 Quantitative Return Forecaster</h3>
@@ -55,7 +55,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
       <p>
         <code>Python</code> <code>XGBoost</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code>
       </p>
-      <p><a href="#"><b>Explore Repo →</b></a></p>
+      <!-- <p><a href="#"><b>Explore Repo →</b></a></p> -->
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
       <p>Content-based recommender mapping aggregated game descriptions, genres, tags, and reviews into dense vector spaces via an automated <b>RAWG API + Kaggle ETL pipeline</b>.</p>
       <p><b>Impact:</b> Powered real-time cosine similarity retrieval inside an interactive <b>Streamlit</b> web app, achieving a <b>60% Hit Ratio</b> across a 50-user campus acceptance study.</p>
       <p>
-        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code> &nbsp;|&nbsp; <a href="#"><b>Explore Repo →</b></a> • <a href="#"><b>Live App →</b></a>
+        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code> &nbsp;
       </p>
     </td>
   </tr>
