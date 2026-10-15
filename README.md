@@ -21,9 +21,9 @@
 
 <br/>
 
-## ⚡ In the Lab
+## Currently
 
-Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, Class of 2027) focused on the practical realities of Applied ML—where noisy real-world text and volatile market regimes meet deterministic evaluation.
+Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, Class of 2027) focused on the practical realities of Applied ML, where noisy real-world text and volatile market regimes meet deterministic evaluation.
 
 * 🔬 **Engineering** - Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLMs (`Gemini Flash`, `Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
 * 📈 **Modeling** - Leakage-free financial time-series pipelines (`XGBoost`) and dense semantic retrieval engines (`BERT` vector spaces).
@@ -33,7 +33,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 
 ---
 
-## 🗂️ Featured Architectures
+## Featured Architectures
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 
 ---
 
-## 🧰 Arsenal
+## Stack
 
 <table>
   <tr>
@@ -107,7 +107,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 
 ---
 
-## 📊 Telemetry
+## Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Artifact19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
