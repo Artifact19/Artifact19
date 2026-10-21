@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:3b0764&height=200&section=header&text=Arnav%20Raut&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Applied%20ML%20%E2%80%A2%20GenAI%20%26%20NLP%20%E2%80%A2%20Time%20Series%20Forecasting&descAlignY=68&descSize=17" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:3b0764&height=200&section=header&text=Arnav%20Raut&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Applied%20ML%20%E2%80%A2%20GenAI%20%26amp%3B%20NLP%20%E2%80%A2%20Time%20Series%20Forecasting&descAlignY=68&descSize=17" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
     <td width="50%" valign="top">
       <h3>🧠 Aspect-Based Sentiment Analysis Studio</h3>
       <p>Live X (Twitter) target-oriented sentiment pipeline classifying arbitrary topics across three polarity classes.</p>
-      <p><b>Pipeline:</b> <code>FetchLayer API</code> → <code>URL/Handle Normalizer & Deduplication Keys</code> → <code>DeBERTa vs. Qwen2.5-3B Benchmark</code> → <code>Two-Stage Qwen2.5-3B Logit Scoring & Streaming Summary</code></p>
+      <p><b>Pipeline:</b> <code>FetchLayer API</code> → <code>URL/Handle Normalizer &amp; Deduplication Keys</code> → <code>DeBERTa vs. Qwen2.5-3B Benchmark</code> → <code>Two-Stage Qwen2.5-3B Logit Scoring &amp; Streaming Summary</code></p>
       <p><b>Evaluation:</b> Benchmarked against 104 manually annotated tweets, achieving linearly weighted Cohen's Kappa of <b>0.57</b> (<code>Qwen2.5-3B</code>) and <b>0.35</b> (<code>DeBERTa</code>).</p>
       <p>
         <code>PyTorch</code> <code>Hugging Face</code> <code>Qwen2.5-3B</code> <code>DeBERTa</code> <code>Logit Extraction</code>
@@ -47,7 +47,7 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
     <td width="50%" valign="top">
       <h3>📈 Stock Return Forecasting Pipeline</h3>
       <p>Multi-step time-series regression pipeline predicting 5-day cumulative returns to project weekly price targets from Yahoo Finance data.</p>
-      <p><b>Pipeline:</b> <code>Yahoo Finance Data</code> → <code>5d/20d Rolling Momentum, Lag & Volatility</code> → <code>L2-Regularized Shallow XGBoost</code> → <code>Price Target Reconstruction</code></p>
+      <p><b>Pipeline:</b> <code>Yahoo Finance Data</code> → <code>5d/20d Rolling Momentum, Lag &amp; Volatility</code> → <code>L2-Regularized Shallow XGBoost</code> → <code>Price Target Reconstruction</code></p>
       <p><b>Evaluation:</b> Prevented lookahead bias via chronological splits and benchmarked against a Linear Regression baseline on out-of-sample directional accuracy and MAPE.</p>
       <p>
         <code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>
@@ -80,28 +80,28 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
     </td>
   </tr>
   <tr>
-    <td><b>Deep Learning & GenAI</b></td>
+    <td><b>Deep Learning &amp; GenAI</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" valign="middle" alt="PyTorch" /> &nbsp;
       <code>PyTorch</code> <code>Hugging Face Transformers</code> <code>LLM APIs</code> <code>RAG</code> <code>Fine-Tuning</code>
     </td>
   </tr>
   <tr>
-    <td><b>ML & Data Science</b></td>
+    <td><b>ML &amp; Data Science</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" valign="middle" alt="Scikit-learn" /> &nbsp;
       <code>Scikit-learn</code> <code>XGBoost</code> <code>Pandas</code> <code>NumPy</code> <code>Time Series Forecasting</code> <code>Statistics</code>
     </td>
   </tr>
   <tr>
-    <td><b>MLOps & Deployment</b></td>
+    <td><b>MLOps &amp; Deployment</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=fastapi,aws,git,github&theme=dark" valign="middle" alt="FastAPI, AWS, Git, GitHub" /> &nbsp;
       <code>FastAPI</code> <code>Streamlit</code> <code>REST APIs</code> <code>AWS</code> <code>Git</code> <code>GitHub</code> <code>Model Evaluation</code>
     </td>
   </tr>
   <tr>
-    <td><b>BI & Visualization</b></td>
+    <td><b>BI &amp; Visualization</b></td>
     <td>
       <code>Power BI</code> <code>Tableau</code> <code>Matplotlib</code> <code>Seaborn</code>
     </td>
