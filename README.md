@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:3b0764&height=200&section=header&text=Arnav%20Raut&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Applied%20ML%20%E2%80%A2%20NLP%20Pipelines%20%E2%80%A2%20Quantitative%20Modeling&descAlignY=68&descSize=17" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:3b0764&height=200&section=header&text=Arnav%20Raut&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Applied%20ML%20%E2%80%A2%20GenAI%20%26%20NLP%20%E2%80%A2%20Time%20Series%20Forecasting&descAlignY=68&descSize=17" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+noisy+unstructured+data+into+grounded+predictions.;Architecting+hybrid+Transformer+%2B+LLM+inference+systems.;Engineering+leakage-free+time-series+%26+vector+search+pipelines." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Benchmarking+encoder+and+decoder+LLMs+on+live+data+streams.;Extracting+next-token+logits+for+calibrated+LLM+scoring.;Building+leakage-free+time-series+and+semantic+search+pipelines." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,13 +20,13 @@
 
 ## Currently
 
-Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, Class of 2027) focused on the practical realities of Applied ML, where noisy real-world text and volatile market regimes meet deterministic evaluation.
+Final-year **Computer Science Engineering undergraduate** at **MIT-ADT University, Pune** (CGPA: **8.47**, 2023–2027) building end-to-end NLP, time-series forecasting, and retrieval systems.
 
-* 🔬 **Engineering** - Hybrid NLP systems that pair encoder classifiers (`DeBERTa`) with generative LLM (`Qwen2.5`) to balance classification accuracy with zero-hallucination explainability.
-* 📈 **Modeling** - Leakage-free financial time-series pipelines (`XGBoost`) and dense semantic retrieval engines (`BERT` vector spaces).
-* 🎓 **Certified in** - **DeepLearning.AI** Deep Learning Specialization (Coursera) & **AWS** Cloud Foundations (2026).
-* 🏆 **Track Record** - **Winner of WePitch 1.0 Startup Pitch Event** at MIT-ADT University, leading product ideation and commission-based revenue strategy for a student gig marketplace.
-* 💬 **Ask me about** - Encoder vs. decoder zero-shot trade-offs, Cohen's Kappa on human-annotated edge cases, rolling-window feature engineering, and building interactive `Streamlit` apps.
+* 🔬 **Deep Learning & GenAI** - Benchmarking zero-shot encoder (`DeBERTa`) vs. decoder (`Qwen2.5-3B`) models, extracting next-token logits for exact probability scoring, and building `RAG` and fine-tuning workflows.
+* 📈 **Machine Learning** - Engineering leakage-free rolling window features for `XGBoost` financial forecasting and mapping dense `BERT` embedding spaces for recommendation engines.
+* ⚙️ **MLOps & Deployment** - Serving inference pipelines and interactive applications using `FastAPI`, `Streamlit`, `REST APIs`, and `AWS`.
+* 🎓 **Certifications** - **DeepLearning.AI** Deep Learning Specialization (Coursera, 2026) & **AWS** Cloud Foundations Training Badge (2026).
+* 💬 **Ask me about** - Next-token logit extraction, linearly weighted Cohen's Kappa on human-annotated datasets, chronological time-series validation, and `FastAPI` + `Streamlit` deployments.
 
 ---
 
@@ -35,78 +35,11 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Hybrid Aspect-Based Sentiment Engine</h3>
-      <p>Real-time target-oriented sentiment analysis on X (Twitter) streams, pairing encoder precision with LLM reasoning.</p>
-      <p><b>Architecture:</b> <code>FetchLayer API</code> → <code>Regex/Token Normalizer</code> → <code>DeBERTa vs. Qwen2.5-3B Benchmark</code> → <code>Gemini 3.6 Flash Rationale</code></p>
-      <p><b>Impact:</b> Evaluated against 107 human-annotated edge cases (<b>0.47</b> & <b>0.29</b> Cohen's Kappa) and used deterministic labels to eliminate explanation hallucinations.</p>
+      <h3>🧠 Aspect-Based Sentiment Analysis Studio</h3>
+      <p>Live X (Twitter) target-oriented sentiment pipeline classifying arbitrary topics across three polarity classes.</p>
+      <p><b>Pipeline:</b> <code>FetchLayer API</code> → <code>URL/Handle Normalizer & Deduplication Keys</code> → <code>DeBERTa vs. Qwen2.5-3B Benchmark</code> → <code>Two-Stage Qwen2.5-3B Logit Scoring & Streaming Summary</code></p>
+      <p><b>Evaluation:</b> Benchmarked against 104 manually annotated tweets, achieving linearly weighted Cohen's Kappa of <b>0.57</b> (<code>Qwen2.5-3B</code>) and <b>0.35</b> (<code>DeBERTa</code>).</p>
       <p>
-        <code>PyTorch</code> <code>Hugging Face</code> <code>DeBERTa</code> <code>Qwen2.5</code> <code>Gemini API</code>
+        <code>PyTorch</code> <code>Hugging Face</code> <code>Qwen2.5-3B</code> <code>DeBERTa</code> <code>Logit Extraction</code>
       </p>
-      <!-- <p><a href="#"><b>Explore Repo →</b></a></p> -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Quantitative Return Forecaster</h3>
-      <p>Multi-step time-series regression pipeline projecting 5-day cumulative returns and weekly stock price targets.</p>
-      <p><b>Architecture:</b> <code>Yahoo Finance Data</code> → <code>5d/20d Rolling Lag & Volatility</code> → <code>L2-Regularized Shallow XGBoost</code> → <code>Price Target Reconstruction</code></p>
-      <p><b>Impact:</b> Strictly eliminated lookahead bias across chronological splits, outperforming Linear Regression baselines on directional accuracy and out-of-sample MAPE.</p>
-      <p>
-        <code>Python</code> <code>XGBoost</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code>
-      </p>
-      <!-- <p><a href="#"><b>Explore Repo →</b></a></p> -->
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎮 Semantic Game Discovery Engine (BERT + Streamlit)</h3>
-      <p>Content-based recommender mapping aggregated game descriptions, genres, tags, and reviews into dense vector spaces via an automated <b>RAWG API + Kaggle ETL pipeline</b>.</p>
-      <p><b>Impact:</b> Powered real-time cosine similarity retrieval inside an interactive <b>Streamlit</b> web app, achieving a <b>60% Hit Ratio</b> across a 50-user campus acceptance study.</p>
-      <p>
-        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Stack
-
-<table>
-  <tr>
-    <td width="160"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark" valign="middle" alt="Python, C++, SQL" /> &nbsp;
-      <code>Python</code> <code>C++</code> <code>SQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deep Learning & NLP</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" valign="middle" alt="PyTorch, TensorFlow" /> &nbsp;
-      <code>Hugging Face Transformers</code> <code>LLMs & APIs</code> <code>NLTK</code> <code>BERT / DeBERTa</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning & Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" valign="middle" alt="Scikit-Learn" /> &nbsp;
-      <code>XGBoost</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Feature Engineering</code> <code>EDA</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Apps, BI & Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark" valign="middle" alt="AWS, Git, GitHub" /> &nbsp;
-      <code>Streamlit</code> <code>Tableau</code> <code>Power BI</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artifact19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artifact19&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
-</div>
+      <!-- <p><a href="#"><b>Explore Repo →</b></a> •
