@@ -7,11 +7,14 @@
 </div>
 
 <div align="center">
-  <a href="mailto:arnavraut390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arnavraut390%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://arnavraut.in/">
+    <img src="https://img.shields.io/badge/Portfolio-arnavraut.in-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/arnav-raut-0824042a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arnavraut390@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arnavraut390%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Artifact19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
