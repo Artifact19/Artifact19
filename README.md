@@ -42,4 +42,77 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
       <p>
         <code>PyTorch</code> <code>Hugging Face</code> <code>Qwen2.5-3B</code> <code>DeBERTa</code> <code>Logit Extraction</code>
       </p>
-      <!-- <p><a href="#"><b>Explore Repo →</b></a> •
+      <!-- <p><a href="#"><b>Explore Repo →</b></a> • <a href="#"><b>Live Studio →</b></a></p> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Stock Return Forecasting Pipeline</h3>
+      <p>Multi-step time-series regression pipeline predicting 5-day cumulative returns to project weekly price targets from Yahoo Finance data.</p>
+      <p><b>Pipeline:</b> <code>Yahoo Finance Data</code> → <code>5d/20d Rolling Momentum, Lag & Volatility</code> → <code>L2-Regularized Shallow XGBoost</code> → <code>Price Target Reconstruction</code></p>
+      <p><b>Evaluation:</b> Prevented lookahead bias via chronological splits and benchmarked against a Linear Regression baseline on out-of-sample directional accuracy and MAPE.</p>
+      <p>
+        <code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>
+      </p>
+      <!-- <p><a href="#"><b>Explore Repo →</b></a></p> -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎮 Content-Based Game Recommendation System (BERT + Streamlit)</h3>
+      <p>Semantic recommendation engine representing video games in dense vector spaces via an automated <b>RAWG API + Kaggle ETL pipeline</b> fusing descriptions, genres, tags, and reviews.</p>
+      <p><b>Evaluation:</b> Computed pairwise cosine similarity across normalized <code>BERT</code> embeddings for real-time retrieval in a <b>Streamlit</b> app, achieving a <b>60% Hit Ratio</b> in user acceptance testing across 50 campus participants.</p>
+      <p>
+        <code>BERT Embeddings</code> <code>Cosine Similarity</code> <code>RAWG API</code> <code>Streamlit</code> <code>ETL</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack
+
+<table>
+  <tr>
+    <td width="190"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark" valign="middle" alt="Python, C++, SQL" /> &nbsp;
+      <code>Python</code> <code>C++</code> <code>SQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Deep Learning & GenAI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" valign="middle" alt="PyTorch" /> &nbsp;
+      <code>PyTorch</code> <code>Hugging Face Transformers</code> <code>LLM APIs</code> <code>RAG</code> <code>Fine-Tuning</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML & Data Science</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" valign="middle" alt="Scikit-learn" /> &nbsp;
+      <code>Scikit-learn</code> <code>XGBoost</code> <code>Pandas</code> <code>NumPy</code> <code>Time Series Forecasting</code> <code>Statistics</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>MLOps & Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,aws,git,github&theme=dark" valign="middle" alt="FastAPI, AWS, Git, GitHub" /> &nbsp;
+      <code>FastAPI</code> <code>Streamlit</code> <code>REST APIs</code> <code>AWS</code> <code>Git</code> <code>GitHub</code> <code>Model Evaluation</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>BI & Visualization</b></td>
+    <td>
+      <code>Power BI</code> <code>Tableau</code> <code>Matplotlib</code> <code>Seaborn</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artifact19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artifact19&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+</div>
