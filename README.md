@@ -7,16 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://arnavraut.in/">
-    <img src="https://img.shields.io/badge/Portfolio-arnavraut.in-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnav-raut-0824042a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arnavraut390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arnavraut390%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Artifact19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://arnavraut.in/"><img src="https://img.shields.io/badge/Portfolio-76B900?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arnav-raut-0824042a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:arnavraut390@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Artifact19&label=profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
@@ -74,42 +68,13 @@ Final-year **Computer Science Engineering undergraduate** at **MIT-ADT Universit
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="190"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark" valign="middle" alt="Python, C++, SQL" /> &nbsp;
-      <code>Python</code> <code>C++</code> <code>SQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deep Learning &amp; GenAI</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" valign="middle" alt="PyTorch" /> &nbsp;
-      <code>PyTorch</code> <code>Hugging Face Transformers</code> <code>LLM APIs</code> <code>RAG</code> <code>Fine-Tuning</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>ML &amp; Data Science</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" valign="middle" alt="Scikit-learn" /> &nbsp;
-      <code>Scikit-learn</code> <code>XGBoost</code> <code>Pandas</code> <code>NumPy</code> <code>Time Series Forecasting</code> <code>Statistics</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>MLOps &amp; Deployment</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,aws,git,github&theme=dark" valign="middle" alt="FastAPI, AWS, Git, GitHub" /> &nbsp;
-      <code>FastAPI</code> <code>Streamlit</code> <code>REST APIs</code> <code>AWS</code> <code>Git</code> <code>GitHub</code> <code>Model Evaluation</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>BI &amp; Visualization</b></td>
-    <td>
-      <code>Power BI</code> <code>Tableau</code> <code>Matplotlib</code> <code>Seaborn</code>
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Deep Learning & GenAI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-10B981?style=flat) ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-6366F1?style=flat) |
+| **Machine Learning & Data Science** | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-2563EB?style=flat) ![Statistics](https://img.shields.io/badge/Statistics-0D9488?style=flat) |
+| **MLOps & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0284C7?style=flat) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-7C3AED?style=flat) |
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) |
 
 ---
 
